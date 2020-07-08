@@ -1,0 +1,7 @@
+C:\Users\kimgs\source\repos\ContactList\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\kimgs\source\repos\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\kimgs\source\repos\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\kimgs\source\repos\ContactList\ContactList\obj\Debug\ContactList.csprojAssemblyReference.cache
+C:\Users\kimgs\source\repos\ContactList\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\kimgs\source\repos\ContactList\ContactList\obj\Debug\ContactList.exe
+C:\Users\kimgs\source\repos\ContactList\ContactList\obj\Debug\ContactList.pdb
